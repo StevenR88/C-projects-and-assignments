@@ -1,0 +1,3 @@
+/cygdrive/c/CLionWorkspace/COMP2510/COMP2510Assignment1/cmake-build-debug/CMakeFiles/Assignment1.dir
+/cygdrive/c/CLionWorkspace/COMP2510/COMP2510Assignment1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/CLionWorkspace/COMP2510/COMP2510Assignment1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
