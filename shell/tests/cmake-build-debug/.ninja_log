@@ -1,0 +1,9 @@
+# ninja log v5
+1	83	1643241025672859321	CMakeFiles/dc_shell_test.dir/main.o	f0dd512b1c64a045
+1	82	1643241025664859328	CMakeFiles/dc_shell_test.dir/execute_tests.o	5922474e6a5381af
+1	83	1643241025676859318	CMakeFiles/dc_shell_test.dir/builtin_tests.o	ed23333b4da9ef4a
+2	83	1643241025684859311	CMakeFiles/dc_shell_test.dir/shell_impl_tests.o	86f7f1c70d7a0d31
+2	83	1643241025688859307	CMakeFiles/dc_shell_test.dir/util_tests.o	6a2b548d6460b9a4
+0	1	0	clean	9151d28c13879cca
+1	82	1643241025668859325	CMakeFiles/dc_shell_test.dir/input_tests.o	c9af94c1712f9f4d
+1	83	1643241025676859318	CMakeFiles/dc_shell_test.dir/command_tests.o	ac5d34aaa03a8128
